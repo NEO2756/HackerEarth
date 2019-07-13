@@ -1,1 +1,1 @@
-# HackerRank
+# HackerEarth Problems
